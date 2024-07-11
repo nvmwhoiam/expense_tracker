@@ -46,7 +46,7 @@ cd expense_tracker
 3. **Run the program:**
 
 ```bash
-python expense_tracker.py
+python app.py
 ```
 
 ## Usage
